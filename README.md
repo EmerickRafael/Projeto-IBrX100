@@ -1,1 +1,1 @@
-# Projeto-IBrX100
+Análise de melhores ações da IBrX100 para se investir usando CAPM para cálculo dos retornos esperados, Sharpe para relação risco-retorno e alfa para captar retornos esporádicos não esperados pelo Modelo.
